@@ -10,7 +10,8 @@ This project is a robust project management tool developed using Laravel, employ
 #### Prerequisites
 
 -  Laravel installed (minimum version 10.10) 
--  Sail configured (with Redis enabled) 
+-  Sail configured (with Redis enabled)
+-  Laravel Passport
 
 ## Installation
 
