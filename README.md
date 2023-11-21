@@ -2,7 +2,7 @@
 
 ## Project Management Tool (API)
 
-This project is a robust project management tool developed using Laravel, employing various design patterns like Repository, Event-Driven, Observer, and Strategic, aiming to enable efficient collaboration among users on projects, task management, progress monitoring, and status tracking. it also incorporate Sail, Passport for Authentication , Redis to manage Queue job
+This project is a robust project management tool developed using Laravel, employing various design patterns like Repository, Event-Driven, Observer, Service and Dependency Injection,  and Strategic, aiming to enable efficient collaboration among users on projects, task management, progress monitoring, and status tracking. it also incorporate Sail, Passport for Authentication , Redis to manage Queue job
 
 
 ### Setup
